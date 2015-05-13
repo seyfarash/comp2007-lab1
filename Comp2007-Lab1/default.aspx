@@ -13,7 +13,7 @@
         <asp:TextBox ID="txtName" runat="server"></asp:TextBox>
         <br />
         <asp:Label ID="passLabel" runat="server" Text="Password:"></asp:Label>
-        <asp:TextBox ID="txtPass" runat="server" TextMode="Password"></asp:TextBox>
+        <asp:TextBox ID="txtPass" runat="server"></asp:TextBox>
         <br />
         <asp:Label ID="addLabel" runat="server" Text="Address:"></asp:Label>
         <asp:TextBox ID="txtAddress" runat="server" TextMode="MultiLine"></asp:TextBox>
